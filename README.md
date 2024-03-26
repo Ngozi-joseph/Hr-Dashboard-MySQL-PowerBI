@@ -42,7 +42,7 @@ The Human Resources table is stored in a csv file with over 22000 rows from the 
 9. What is the distribution of employees across locations by state?
 10. What is the tenure distribution for each department?
 
-### Results
+### Summary of Results
 
 - The average tenure for each department is about 8 years with the Sales department having the longest retention (above average) of 9 years, whilst the HR and Legal department having the lowest of 7 years.
 - There are more male employees.

@@ -2,8 +2,6 @@
 
 <img width="1426" alt="Screenshot 2024-03-25 at 09 20 57" src="https://github.com/Ngozi-joseph/Hr-Dashboard-MySQL-PowerBI/assets/161621333/42be60fe-6f89-4ff7-a7aa-231faaf3af0f">
 
-<img width="833" alt="Screenshot 2024-03-25 at 15 35 23" src="https://github.com/Ngozi-joseph/Hr-Dashboard-MySQL-PowerBI/assets/161621333/8d96c456-a74c-4bc7-ae65-e5e52f94cac6">
-
 ## Table of Contents
 * [Project Overview](#project-overview)
 * [Data Sources](#data-sources)

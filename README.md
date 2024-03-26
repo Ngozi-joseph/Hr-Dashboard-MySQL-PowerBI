@@ -1,5 +1,7 @@
 # Hr-Dashboard-MySQL-PowerBI
 
+[HR Employee Report.pdf](https://github.com/Ngozi-joseph/Hr-Dashboard-MySQL-PowerBI/files/14756859/HR.Employee.Report.pdf)
+
 ## Table of Contents
 * [Project Overview](#project-overview)
 * [Data Sources](#data-sources)
